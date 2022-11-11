@@ -1,7 +1,8 @@
 Readme file edited
 
 finished
-created by Sam Ambrose
+
+modified and created by Sam Ambrose
 
 # Your GitHub Learning Lab Repository for Introducing GitHub
 
